@@ -1,7 +1,13 @@
+# cscsacsa
+123
+# fredscsdf
+# cdsfcdc
+sdvc
+sdv
+# csdcfsd
+d = 5
 cscsacsa
 csacas
 list_ = []
 empy_dict = {}
-csac
-adsasd
-asdsad
+empty_str = ""
